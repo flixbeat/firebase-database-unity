@@ -6180,7 +6180,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2015676043}
         m_TargetAssemblyTypeName: DatabaseManager, Assembly-CSharp
-        m_MethodName: GetUserData
+        m_MethodName: DeleteUser
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7002,6 +7002,7 @@ MonoBehaviour:
   userIdUpdate: {fileID: 1831116730}
   unameUpdate: {fileID: 332183161}
   goldUpdate: {fileID: 1254916928}
+  userIdDelete: {fileID: 698645006}
 --- !u!114 &2015676044
 MonoBehaviour:
   m_ObjectHideFlags: 0
